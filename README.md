@@ -42,8 +42,8 @@ plotly
 
 1. Clone the repository:
 ```bash
-git clone [repository-url]
-cd [repository-name]
+git clone [https://github.com/Hari-Eshwaran/oneyes.git]
+cd [oneyes]
 ```
 
 2. Install the required packages:
@@ -147,7 +147,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 👥 Authors
 
-- [Your Name/Organization]
+- [Harishwaran P - CTO, Hexpertify]
 
 ## 🙏 Acknowledgments
 
