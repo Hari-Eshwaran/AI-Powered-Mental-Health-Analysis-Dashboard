@@ -1,0 +1,44 @@
+1. harishhack0 - https://bolt.new/~/sb1-ckpevces
+I've created a comprehensive AI-powered mental health analysis platform with a focus on creating a secure, user-friendly experience for both patients and therapists. The application features a clean, professional design with a soothing color palette and intuitive navigation to create a calming environment for users dealing with mental health concerns.
+
+The platform includes authentication with role-based access, specialized dashboards for different user types, and detailed profile management. The patient dashboard visualizes mental health metrics with interactive charts for mood tracking, sleep patterns, and goal progress, while the therapist dashboard provides patient management tools and analytics.
+
+You can log in using the provided credentials:
+
+    Patient: hari@heal.com / hari8892
+    Therapist: anu@heal.com / hari8892
+
+The application is responsive and works across all device sizes, with careful attention to typography, spacing, and visual hierarchy to ensure the best possible user experience.
+
+2. harishhack4 - https://bolt.new/~/sb1-yqqtuwyr
+I've implemented a comprehensive symptom tracking system with Gemini AI integration. Here's what's included:
+
+    A new SymptomTracker component that allows users to:
+        Track mood, anxiety, and sleep levels using sliders
+        Add detailed notes about their mental state
+        Get AI-powered analysis of their symptoms
+        View their symptom history with insights
+
+    Integration with Gemini AI for analyzing symptoms and providing personalized insights
+
+    A clean and intuitive UI with:
+        Interactive sliders for rating symptoms
+        Real-time feedback
+        Animated history entries
+        Error handling and loading states
+
+The symptom tracker is now integrated into the patient dashboard. Users can track their symptoms daily and receive AI-powered insights about their mental health patterns.
+I've implemented a comprehensive recommendation system that:
+
+    Analyzes symptom patterns using Gemini AI
+    Generates personalized recommendations in three categories:
+        Coping strategies
+        Relaxation techniques
+        Behavioral advice
+    Allows users to track completed recommendations
+    Updates recommendations based on new symptom entries
+    Provides a clean, card-based UI with visual indicators for different recommendation types
+
+The recommendations are now integrated with the symptom tracker and will automatically update when new symptoms are logged.
+
+3.harishhack6 - https://bolt.new/~/sb1-bciifjhm
