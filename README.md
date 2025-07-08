@@ -42,8 +42,8 @@ plotly
 
 1. Clone the repository:
 ```bash
-git clone [https://github.com/Hari-Eshwaran/oneyes.git]
-cd [oneyes]
+git clone [https://github.com/Hari-Eshwaran/AI-Powered-Mental-Health-Analysis-Dashboard.git]
+cd [AI-Powered-Mental-Health-Analysis-Dashboard]
 ```
 
 2. Install the required packages:
